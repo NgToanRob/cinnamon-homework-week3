@@ -4,10 +4,8 @@ import argparse
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-i", "--input_file",
-                        help="The path to the input TIFF file.")
-    parser.add_argument("-o", "--output_file",
-                        help="The path to the output PNG file.")
+    parser.add_argument("-i", "--input_file", help="The path to the input TIFF file.")
+    parser.add_argument("-o", "--output_file", help="The path to the output PNG file.")
     args = parser.parse_args()
 
     converter = Converter(args.input_file, args.output_file)
