@@ -1,6 +1,6 @@
 # CINNAMON HW3 – AI-Venger
 
-Our library is a powerful tool for converting various file formats to images. It provides a convenient and efficient way to transform files such as PNG, HEIC, TIFF, and PDF into PNG images. 
+Our library is a powerful tool for converting various file formats to images. It provides a convenient and efficient way to transform files such as PNG, HEIC, TIFF, and PDF into PNG images.
 
 ## Table of Contents
 0. Introduction
